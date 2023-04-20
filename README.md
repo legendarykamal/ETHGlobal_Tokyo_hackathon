@@ -1,3 +1,5 @@
+https://ethglobal.com/showcase/octoplorer-block-query-made-easy-pdgmt
+
 # Official documentation for ETH Global Tokyo hackathon April 14th-16th 2023
 # Octoplorer: block query made easy
 ## AI-powered blockchain explorer with human-readable answers
